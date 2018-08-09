@@ -1,0 +1,14 @@
+.bg-color{
+	background-color: #39569A;
+    color: #fff;
+
+}
+.bg-color{
+	padding: 5px;
+}
+.bg-color ul li a {
+    font-size: 18px !important;
+    margin-left: 10px !important;
+    text-decoration: none !important;
+    margin-top: 10px !important;
+}
